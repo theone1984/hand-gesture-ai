@@ -1,0 +1,11 @@
+weights/handsegnet-rhd.pickle filter=lfs diff=lfs merge=lfs -text
+weights/lifting-local.pickle filter=lfs diff=lfs merge=lfs -text
+weights/lifting-local_w_xyz_loss.pickle filter=lfs diff=lfs merge=lfs -text
+weights/lifting-proposed.pickle filter=lfs diff=lfs merge=lfs -text
+weights/posenet-rhd-stb-slr-finetuned.pickle filter=lfs diff=lfs merge=lfs -text
+weights/lifting-bottleneck.pickle filter=lfs diff=lfs merge=lfs -text
+weights/lifting-direct.pickle filter=lfs diff=lfs merge=lfs -text
+weights/posenet-rhd-stb.pickle filter=lfs diff=lfs merge=lfs -text
+weights/posenet3d-rhd-stb-slr-finetuned.pickle filter=lfs diff=lfs merge=lfs -text
+weights/posenet3d-rhd-stb.pickle filter=lfs diff=lfs merge=lfs -text
+weights/cpm-model-mpii filter=lfs diff=lfs merge=lfs -text
